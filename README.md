@@ -7,4 +7,4 @@ ____
 * ***SCSS***
 * ***JS***
 
-![preview](https://photos.google.com/share/AF1QipOMrrraMW1BXxGJnlppc9X4_22-gIO-NOZZpP1M2cmthhxslwEkL6tOe5Ytu9mK_Q/photo/AF1QipOo81XMM9qvUXNrzBKtU3j6GQpSimfusv-peDU9?key=ZldhYktFUFNORTdJdGxKS1RtSUtqc0tHejJHVTR3)
+![preview](https://lh3.googleusercontent.com/pw/AM-JKLX_eFGZxJ_JA9SyZsRACPGZV_MzY9wwzW7m8sM3CtLG3LUHXej-8OTbBI1TbRl40vdctY-tjxjFAFVUOxozpUP3xgiD8xN5hK1_1y4uWaZAxBn1PvVLHGShVxtbFmz020jZy7T8XTWgX76iAkLDFbH1=w216-h929-no?authuser=0)
